@@ -210,28 +210,28 @@
             // tsmiNewTable
             // 
             this.tsmiNewTable.Name = "tsmiNewTable";
-            this.tsmiNewTable.Size = new System.Drawing.Size(152, 22);
+            this.tsmiNewTable.Size = new System.Drawing.Size(130, 22);
             this.tsmiNewTable.Text = "New Table";
             this.tsmiNewTable.Click += new System.EventHandler(this.tsmiNewTable_Click);
             // 
             // tsmiHelp
             // 
             this.tsmiHelp.Name = "tsmiHelp";
-            this.tsmiHelp.Size = new System.Drawing.Size(152, 22);
+            this.tsmiHelp.Size = new System.Drawing.Size(130, 22);
             this.tsmiHelp.Text = "Help";
             this.tsmiHelp.Click += new System.EventHandler(this.tsmiHelp_Click);
             // 
             // tsmiCredits
             // 
             this.tsmiCredits.Name = "tsmiCredits";
-            this.tsmiCredits.Size = new System.Drawing.Size(152, 22);
+            this.tsmiCredits.Size = new System.Drawing.Size(130, 22);
             this.tsmiCredits.Text = "Credits";
             this.tsmiCredits.Click += new System.EventHandler(this.tsmiCredits_Click);
             // 
             // tsmiExit
             // 
             this.tsmiExit.Name = "tsmiExit";
-            this.tsmiExit.Size = new System.Drawing.Size(152, 22);
+            this.tsmiExit.Size = new System.Drawing.Size(130, 22);
             this.tsmiExit.Text = "Exit";
             this.tsmiExit.Click += new System.EventHandler(this.tsmiExit_Click);
             // 
@@ -366,9 +366,9 @@
             // 
             // btnAddItem
             // 
-            this.btnAddItem.Location = new System.Drawing.Point(263, 154);
+            this.btnAddItem.Location = new System.Drawing.Point(209, 154);
             this.btnAddItem.Name = "btnAddItem";
-            this.btnAddItem.Size = new System.Drawing.Size(110, 45);
+            this.btnAddItem.Size = new System.Drawing.Size(219, 45);
             this.btnAddItem.TabIndex = 15;
             this.btnAddItem.Text = "Add Item";
             this.btnAddItem.UseVisualStyleBackColor = true;
